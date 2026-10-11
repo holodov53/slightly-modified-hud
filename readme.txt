@@ -1,0 +1,1 @@
+"shm" folder move to steamapps\common\Team Fortress 2\tf\custom
